@@ -1,0 +1,6 @@
+pandas
+numpy
+# 如果您使用特定的数据接口库，请取消注释并添加，例如:
+# tushare
+# jqdatasdk
+# windpy (for Wind)
